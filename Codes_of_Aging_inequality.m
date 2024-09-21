@@ -1,5 +1,6 @@
 %% codes for article entitled 'Intensifying Health Risk Inequality for the Elderly'
 %% author: Yuan Qi  ; Email : qqyy@hku.hk
+%% Here is a collection of code that consists of many steps. Please do not run the entire code at once; debug it section by section.
 %% Step 1:calculate the ATEI; Step 2: calculate the CHRI ；  Step 3: tests
 
 
